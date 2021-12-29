@@ -1,0 +1,6 @@
+numpy
+scipy
+scikit-learn
+pynndescent
+tqdm
+Cython>=0.29
